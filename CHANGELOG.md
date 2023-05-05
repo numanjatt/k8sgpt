@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.2.10](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.2.9...v0.2.10) (2023-05-05)
+
+
+### Features
+
+* add auth commands ([#369](https://github.com/k8sgpt-ai/k8sgpt/issues/369)) ([00aaae8](https://github.com/k8sgpt-ai/k8sgpt/commit/00aaae86d88812bd6b6be290ba440ea583ccc01c))
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/sashabaranov/go-openai to v1.9.3 ([#378](https://github.com/k8sgpt-ai/k8sgpt/issues/378)) ([045a063](https://github.com/k8sgpt-ai/k8sgpt/commit/045a06350bf41d4177e67316978af8fcf02ff19a))
+* **deps:** update module golang.org/x/term to v0.8.0 ([#382](https://github.com/k8sgpt-ai/k8sgpt/issues/382)) ([65fff11](https://github.com/k8sgpt-ai/k8sgpt/commit/65fff11e585f8074fb77124b25339a09da313970))
+
+
+### Docs
+
+* update README ([#383](https://github.com/k8sgpt-ai/k8sgpt/issues/383)) ([d6bcb96](https://github.com/k8sgpt-ai/k8sgpt/commit/d6bcb96105a549eb772b790704c7ec27e374eafd))
+
 ## [0.2.9](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.2.8...v0.2.9) (2023-05-03)
 
 
